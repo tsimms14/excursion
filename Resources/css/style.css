@@ -1,5 +1,8 @@
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana;
+
 }
 
 h1 {
@@ -11,7 +14,7 @@ h1 {
     font-weight: normal;
 }
 
-.link p {
+.link--cta {
 
     text-align: center;
     color: Aquamarine;
