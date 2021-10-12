@@ -4,6 +4,8 @@ body {
     font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/*Headers*/
+
 .header--main {
     text-align: center;
     font-size: 50px;
@@ -12,17 +14,7 @@ body {
     font-weight: normal;
 }
 
-.link--cta {
-    text-align: center;
-    color: Aquamarine;
-    font-size: 16px;
-}
-
-.mp4 {
-    text-align: center;
-}
-
-.travel h2 {
+.header--secondary {
     text-align: center;
     font-family: verdana;
     font-weight: 300;
@@ -30,38 +22,38 @@ body {
     color: white;
 }
 
-.travel p {
+.header--subheader {
     text-align: center;
     font-family: verdana;
     font-size: 21px;
     color: gray;
 }
 
-.img {
+/*Linkss*/
 
+.link--cta {
     text-align: center;
+    color: Aquamarine;
+    font-size: 16px;
+}
 
+.img {
+    text-align: center;
 }
 
 .webp {
-
     text-align: center;
-
 }
 
 .webp h2 {
-
     text-align: center;
     font-family: verdana;
     font-weight: 300;
     font-size: 42px;
     color: white;
-
 }
 
 .footer {
-
     text-align: right;
     color: gray;
-    
 }
