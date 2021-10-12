@@ -29,7 +29,7 @@ body {
     color: gray;
 }
 
-/*Linkss*/
+/*Links*/
 
 .link--cta {
     text-align: center;
@@ -45,7 +45,7 @@ body {
     text-align: center;
 }
 
-.webp h2 {
+.note {
     text-align: center;
     font-family: verdana;
     font-weight: 300;
