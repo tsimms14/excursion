@@ -2,11 +2,9 @@ body {
     background-color: black;
     text-align: center;
     font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .header--main {
-
     text-align: center;
     font-size: 50px;
     color: White;
@@ -15,35 +13,28 @@ body {
 }
 
 .link--cta {
-
     text-align: center;
     color: Aquamarine;
     font-size: 16px;
-
 }
 
 .mp4 {
-
     text-align: center;
 }
 
 .travel h2 {
-
     text-align: center;
     font-family: verdana;
     font-weight: 300;
     font-size: 42px;
     color: white;
-
 }
 
 .travel p {
-
     text-align: center;
     font-family: verdana;
     font-size: 21px;
     color: gray;
-
 }
 
 .img {
